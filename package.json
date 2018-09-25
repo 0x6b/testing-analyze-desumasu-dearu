@@ -1,0 +1,15 @@
+{
+  "name": "testing-analyze-desumasu-dearu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "analyze-desumasu-dearu": "^3.1.0"
+  }
+}
